@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit3\unit3\even_odd\bin\Debug\even_odd.exe.config
+D:\vyom(7362)\unit3\unit3\even_odd\bin\Debug\even_odd.exe
+D:\vyom(7362)\unit3\unit3\even_odd\bin\Debug\even_odd.pdb
+D:\vyom(7362)\unit3\unit3\even_odd\obj\Debug\even_odd.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit3\unit3\even_odd\obj\Debug\even_odd.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit3\unit3\even_odd\obj\Debug\even_odd.exe
+D:\vyom(7362)\unit3\unit3\even_odd\obj\Debug\even_odd.pdb

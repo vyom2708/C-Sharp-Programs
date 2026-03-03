@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit3\unit3\age_criteria\bin\Debug\age_criteria.exe.config
+D:\vyom(7362)\unit3\unit3\age_criteria\bin\Debug\age_criteria.exe
+D:\vyom(7362)\unit3\unit3\age_criteria\bin\Debug\age_criteria.pdb
+D:\vyom(7362)\unit3\unit3\age_criteria\obj\Debug\age_criteria.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit3\unit3\age_criteria\obj\Debug\age_criteria.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit3\unit3\age_criteria\obj\Debug\age_criteria.exe
+D:\vyom(7362)\unit3\unit3\age_criteria\obj\Debug\age_criteria.pdb

@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\obj\Debug\prime_num_given_range.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\obj\Debug\prime_num_given_range.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\bin\Debug\prime_num_given_range.exe.config
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\bin\Debug\prime_num_given_range.exe
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\bin\Debug\prime_num_given_range.pdb
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\obj\Debug\prime_num_given_range.exe
+D:\vyom(7362)\unit3\unit3\prime_num_given_range\obj\Debug\prime_num_given_range.pdb

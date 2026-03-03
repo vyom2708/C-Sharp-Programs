@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit3\unit3\factorial\bin\Debug\factorial.exe.config
+D:\vyom(7362)\unit3\unit3\factorial\bin\Debug\factorial.exe
+D:\vyom(7362)\unit3\unit3\factorial\bin\Debug\factorial.pdb
+D:\vyom(7362)\unit3\unit3\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit3\unit3\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit3\unit3\factorial\obj\Debug\factorial.exe
+D:\vyom(7362)\unit3\unit3\factorial\obj\Debug\factorial.pdb
