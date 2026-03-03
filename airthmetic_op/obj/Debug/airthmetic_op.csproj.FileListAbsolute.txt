@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit1\airthmetic_op\bin\Debug\airthmetic_op.exe.config
+D:\vyom(7362)\unit1\airthmetic_op\bin\Debug\airthmetic_op.exe
+D:\vyom(7362)\unit1\airthmetic_op\bin\Debug\airthmetic_op.pdb
+D:\vyom(7362)\unit1\airthmetic_op\obj\Debug\airthmetic_op.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit1\airthmetic_op\obj\Debug\airthmetic_op.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit1\airthmetic_op\obj\Debug\airthmetic_op.exe
+D:\vyom(7362)\unit1\airthmetic_op\obj\Debug\airthmetic_op.pdb

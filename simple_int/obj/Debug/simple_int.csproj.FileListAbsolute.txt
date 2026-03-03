@@ -1,0 +1,7 @@
+D:\vyom(7362)\unit1\simple_int\bin\Debug\simple_int.exe.config
+D:\vyom(7362)\unit1\simple_int\bin\Debug\simple_int.exe
+D:\vyom(7362)\unit1\simple_int\bin\Debug\simple_int.pdb
+D:\vyom(7362)\unit1\simple_int\obj\Debug\simple_int.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit1\simple_int\obj\Debug\simple_int.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit1\simple_int\obj\Debug\simple_int.exe
+D:\vyom(7362)\unit1\simple_int\obj\Debug\simple_int.pdb

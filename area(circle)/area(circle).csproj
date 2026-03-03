@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB263197-DBE0-44E7-B50F-EAC28DC8736F}</ProjectGuid>
+    <ProjectGuid>{D30A7A07-F927-4EBF-AD2A-E037D28364C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>prog1</RootNamespace>
-    <AssemblyName>prog1</AssemblyName>
+    <RootNamespace>area_circle_</RootNamespace>
+    <AssemblyName>area%28circle%29</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

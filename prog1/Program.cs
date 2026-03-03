@@ -1,5 +1,4 @@
-﻿using prog1;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,15 +10,7 @@ namespace prog1
     {
         static void Main(string[] args)
         {
-            rectangle r = new rectangle();
-            r.getdata();
-            r.calculate();
-            r.display();
-
-            circle c = new circle();
-            c.gd();
-            c.cal();
-            c.dis();
+            Console.WriteLine("HELLO WORLD!");
         }
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB263197-DBE0-44E7-B50F-EAC28DC8736F}</ProjectGuid>
+    <ProjectGuid>{9694ED2A-16BD-4935-A8F9-D50D07F04079}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>prog1</RootNamespace>
-    <AssemblyName>prog1</AssemblyName>
+    <RootNamespace>compound_int</RootNamespace>
+    <AssemblyName>compound_int</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

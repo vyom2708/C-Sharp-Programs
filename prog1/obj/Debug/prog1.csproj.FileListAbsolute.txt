@@ -1,7 +1,7 @@
-D:\vyom(7362)\unit4\prog1\bin\Debug\prog1.exe.config
-D:\vyom(7362)\unit4\prog1\bin\Debug\prog1.exe
-D:\vyom(7362)\unit4\prog1\bin\Debug\prog1.pdb
-D:\vyom(7362)\unit4\prog1\obj\Debug\prog1.csproj.AssemblyReference.cache
-D:\vyom(7362)\unit4\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
-D:\vyom(7362)\unit4\prog1\obj\Debug\prog1.exe
-D:\vyom(7362)\unit4\prog1\obj\Debug\prog1.pdb
+D:\vyom(7362)\unit1\prog1\bin\Debug\prog1.exe.config
+D:\vyom(7362)\unit1\prog1\bin\Debug\prog1.exe
+D:\vyom(7362)\unit1\prog1\bin\Debug\prog1.pdb
+D:\vyom(7362)\unit1\prog1\obj\Debug\prog1.csproj.AssemblyReference.cache
+D:\vyom(7362)\unit1\prog1\obj\Debug\prog1.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\unit1\prog1\obj\Debug\prog1.exe
+D:\vyom(7362)\unit1\prog1\obj\Debug\prog1.pdb
