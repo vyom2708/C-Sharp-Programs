@@ -1,0 +1,7 @@
+D:\vyom(7362)\bca4\prog14\obj\Debug\prog14.csproj.AssemblyReference.cache
+D:\vyom(7362)\bca4\prog14\obj\Debug\prog14.csproj.CoreCompileInputs.cache
+D:\vyom(7362)\bca4\prog14\bin\Debug\prog14.exe.config
+D:\vyom(7362)\bca4\prog14\bin\Debug\prog14.exe
+D:\vyom(7362)\bca4\prog14\bin\Debug\prog14.pdb
+D:\vyom(7362)\bca4\prog14\obj\Debug\prog14.exe
+D:\vyom(7362)\bca4\prog14\obj\Debug\prog14.pdb
